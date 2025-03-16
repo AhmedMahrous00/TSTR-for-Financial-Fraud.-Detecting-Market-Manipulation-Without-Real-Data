@@ -1,8 +1,6 @@
-# CS283 Project: Ahmed Mahrous
+# Modeling Market Manipulation Time-Series with a Train-on-Synthetic, Test-on-Real Approach
 
-# Time Series Generation Project
-
-This repository contains various Jupyter notebooks that can be used to replicate my CS283 Project. Each method is illustrated in its own notebook.
+This repository contains various Jupyter notebooks that can be used to replicate the findings of the paper "Modeling Market Manipulation Time-Series with a Train-on-Synthetic, Test-on-Real Approach". Each method is illustrated in its own notebook.
 
 ## Notebooks
 
@@ -24,5 +22,3 @@ This repository contains various Jupyter notebooks that can be used to replicate
 ## Data Requirement
 
 To run the Jupyter notebooks, ensure you have downloaded and extracted the necessary data from [`data.zip`](data.zip). This file contains all the datasets required for the experiments detailed in the notebooks.
-
-Thank you for visiting this project!
