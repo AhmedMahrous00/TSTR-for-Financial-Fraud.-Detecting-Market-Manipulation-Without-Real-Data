@@ -2,6 +2,10 @@
 
 This repository contains various Jupyter notebooks that can be used to replicate the findings of the paper "TSTR for Financial Fraud: Learning to Detect Manipulation Without Real Data". Each method is illustrated in its own notebook.
 
+Ahmed Mahrous and Roberto Di Pietro. *Proceedings of the 6th ACM International Conference on AI in Finance*, pp. 71–79, 2025.
+
+[Published paper](https://doi.org/10.1145/3768292.3770393) · [Paper page](https://amahrous.com/papers/tstr-financial-fraud/)
+
 ## Notebooks
 
 ### Time Series Generation
@@ -31,6 +35,10 @@ If you use this repository, please cite:
 @inproceedings{mahrous2025tstr,
   title={TSTR for Financial Fraud: Learning to Detect Manipulation Without Real Data},
   author={Mahrous, Ahmed and Di Pietro, Roberto},
-  booktitle={Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF ’25)},
+  booktitle={Proceedings of the 6th ACM International Conference on AI in Finance},
   year={2025},
+  pages={71--79},
+  doi={10.1145/3768292.3770393},
+  url={https://doi.org/10.1145/3768292.3770393}
 }
+```

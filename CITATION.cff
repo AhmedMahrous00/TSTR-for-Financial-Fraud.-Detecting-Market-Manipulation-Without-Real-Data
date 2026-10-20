@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper."
+title: "TSTR for Financial Fraud replication notebooks"
+type: software
+authors:
+  - family-names: Mahrous
+    given-names: Ahmed
+repository-code: "https://github.com/AhmedMahrous00/TSTR-for-Financial-Fraud.-Detecting-Market-Manipulation-Without-Real-Data"
+preferred-citation:
+  type: conference-paper
+  title: "TSTR for Financial Fraud: Learning to Detect Manipulation Without Real Data"
+  authors:
+    - family-names: Mahrous
+      given-names: Ahmed
+    - family-names: Di Pietro
+      given-names: Roberto
+  year: 2025
+  doi: "10.1145/3768292.3770393"
+  url: "https://doi.org/10.1145/3768292.3770393"
+  collection-title: "Proceedings of the 6th ACM International Conference on AI in Finance"
+  start: "71"
+  end: "79"
