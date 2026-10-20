@@ -4,7 +4,7 @@ This repository contains various Jupyter notebooks that can be used to replicate
 
 Ahmed Mahrous and Roberto Di Pietro. *Proceedings of the 6th ACM International Conference on AI in Finance*, pp. 71–79, 2025.
 
-[Published paper](https://doi.org/10.1145/3768292.3770393) · [Paper page](https://amahrous.com/papers/tstr-financial-fraud/)
+[Published paper](https://doi.org/10.1145/3768292.3770393) · [Paper page](https://amahrous.com/papers/tstr-financial-fraud/) · [Archived code (v1.0.0)](https://doi.org/10.5281/zenodo.17301104)
 
 ## Notebooks
 
